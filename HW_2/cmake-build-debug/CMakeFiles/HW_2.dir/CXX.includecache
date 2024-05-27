@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/a123/Desktop/homework/HW_2/filters.cpp
+filters.h
+/Users/a123/Desktop/homework/HW_2/filters.h
+
+/Users/a123/Desktop/homework/HW_2/filters.h
+iostream
+-
+chrono
+-
+vector
+-
+fstream
+-
+list
+-
+sstream
+-
+
+/Users/a123/Desktop/homework/HW_2/main.cpp
+iostream
+-
+chrono
+-
+vector
+-
+filters.h
+/Users/a123/Desktop/homework/HW_2/filters.h
+
